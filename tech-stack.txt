@@ -1,0 +1,4 @@
+Backend API 		    - NodeJS Express Server
+Database 	            - MySQL
+ORM		                - Sequelize
+Authentication	        - JSON Web Token
